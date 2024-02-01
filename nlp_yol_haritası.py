@@ -1,0 +1,11 @@
+#Transformers modeli ile NLP uygulamaları yaygınlaştı ve büyük gelişim gösterdi. 
+#Eskiden RNN kullanılmaktaydı ancak uzun cümlelerde hafıza probleminden dolayı çok iyi performans göstermiyordu.
+#Google, Transformers mimarisini geliştirdikten sonra kelimelerin cümle içindeki sırası ve yeri dikkate alındı.
+#İnsan düzeyinde başarı gösterdi.
+
+#Güncel olarak sınıflandırma için BERT modeli ve metin üretme için GPT modeli mevcuttur.
+#Bu modelleri baştan eğitmemize gerek yok, indirdikten sonra ihtiyacımıza yönelik fine-tune edebiliriz.
+
+#Popüler frameworkler ve kütüphaneler --> NLTK, spiCY, Gensim vb. 
+#Aynı zamandan Hugging Face'in geliştirdiği Transformers kütüphanesi de işimize yarayabilecek pek çok modeli içermektedir.
+
